@@ -1,3 +1,3 @@
 package:
-	tar --exclude='./.git' --exclude='./awspot' --exclude='./README.md' \
-			 -zcvf "hworld-1.0.tar.gz" .
+	tar --exclude='./.git' --exclude='./README.md' \
+			 -zcvf "xcodelinker-1.0.tar.gz" .
