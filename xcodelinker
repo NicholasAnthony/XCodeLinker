@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "linker!"
+ln -s /Applications/Xcode-10.1.app /Applications/XCode.app
+ls -la /Applications
